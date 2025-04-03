@@ -1,7 +1,7 @@
 public class Tiposvariaveis {
 
-    public static void main(String[] args){
-      //variaveis
+    public static void main(String[] args) {
+        //variaveis
         byte idade = 123;
         short ano = 2021;
         int cep = 21070333; // Se começar com zero, talves tenha que ser outro tipo.
@@ -11,7 +11,7 @@ public class Tiposvariaveis {
         //Tipo long tambem precisa terminar com l
 
         //Representação de texto
-        String meuNome ="Luiz Guni";
+        String meuNome = "Luiz Guni";
         System.out.println(meuNome);
     }
 

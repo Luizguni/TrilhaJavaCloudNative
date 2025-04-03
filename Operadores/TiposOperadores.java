@@ -78,6 +78,11 @@ public class TiposOperadores {
         int numero1 = 1;
         int numero2 = 2;
         boolean simNao = numero1 == numero2;
+
+        if (numero1 < numero2) {
+            System.out.println("A nossa Condição é verdadeira");
+        }
+
         System.out.println("NumeroUm é igual a numeroDois?" + simNao);
 
         simNao = numero1 != numero2;
@@ -85,5 +90,29 @@ public class TiposOperadores {
 
         simNao = numero1 + numero1 == numero2;
         System.out.println("NumeroUm + numeroUm é igual a numeroDois?" + simNao);
+
+        simNao = numero1 > numero2;
+        System.out.println("numeroUm é maior que numeroDois?" + simNao);
+
+        simNao = numero1 + numero1 >= numero2;
+        System.out.println("NumeroUm + numeroUm é maior ou igual a numeroDois?" + simNao);
+
+        simNao = numero1 < numero2;
+        System.out.println("numeroUm é menor que numeroDois?" + simNao);
+
+        //Operador Lógico
+        boolean condicao1 = true;
+        boolean condicao2 = true;
+
+        if (condicao1 && condicao2) {
+            System.out.println("Duas condições verdadeiras");
+        }
+
+        if (condicao1 || condicao2) {
+            System.out.println("Uma das condições é verdadeiras");
+        }
+
+        System.out.println("fim");
+
     }
 }
