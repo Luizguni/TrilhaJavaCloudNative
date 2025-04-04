@@ -1,10 +1,14 @@
-Trilha Java
+📌 Descrição
+Este projeto demonstra o uso de diversos tipos de operadores em Java, incluindo:
 
-Estou estudando toda a estrutura da linguagem Java.
+Operadores aritméticos
 
-Tecnologias utilizadas
+Operadores de concatenação
 
-Java 17
-Bota de mola
-Descanso de API
-PostgreSQL
+Operadores unários
+
+Operadores ternários
+
+Operadores relacionais
+
+Operadores lógicos
