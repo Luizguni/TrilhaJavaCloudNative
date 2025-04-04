@@ -1,4 +1,3 @@
-📌 Descrição
 Este projeto demonstra o uso de diversos tipos de operadores em Java, incluindo:
 
 Operadores aritméticos
