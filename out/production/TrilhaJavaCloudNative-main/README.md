@@ -1,5 +1,13 @@
-🛠️ Tecnologias Utilizadas
+Este projeto demonstra o uso de diversos tipos de operadores em Java, incluindo:
 
-Java 17
+Operadores aritméticos
 
-IDE Intellij
+Operadores de concatenação
+
+Operadores unários
+
+Operadores ternários
+
+Operadores relacionais
+
+Operadores lógicos
